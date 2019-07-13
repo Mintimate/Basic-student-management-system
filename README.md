@@ -5,5 +5,3 @@
 
 
 =======
-# Basic-student-management-system
->>>>>>> f9591861b132ab837771a0378b78f07ac2c5fd8a
